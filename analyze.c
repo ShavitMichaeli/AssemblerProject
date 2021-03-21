@@ -1,4 +1,4 @@
-/* Assmbler - Maman 14 by Barel Azulai, ID: 206251951 and Shavit Michaeli, ID: 205782659 */
+/* Assmbler - Maman 14 by Barel Azulai and Shavit Michaeli */
 
 #include "header.h"
 
